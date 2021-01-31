@@ -1,0 +1,118 @@
+body {
+   background-color: #ff0707;
+}
+
+#weather-dashboard {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+   background: #0a06e6;
+   text-align: center;
+   color:  #b8dbd9;
+   line-height: 50px;
+}
+
+.card {
+   border: none;
+}
+
+.navbar-light {
+   background-color: #e6ebe0;
+}
+
+.city-btn {
+   background-color: #5e6572;
+}
+
+.card-body {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16pt;
+   display: inline-block;
+   border: solid #1b998b 2px;
+   margin: 20px;
+   padding: 40px;
+   flex-direction: row;
+   width: auto;
+}
+
+.city-weather {
+   margin-bottom: 50px;
+   padding-bottom: 50px;
+}
+
+
+.headline {
+   font-size: 34px;
+   border: none;
+   display: inline-block;
+}
+
+.detail {
+   padding-left: 25px;
+   padding-top: 25px;
+   padding-bottom: 0px;
+   margin-bottom: 0px;
+}
+
+.city-weather {
+   font-size: 36pt;
+   padding-left: 40px;
+   line-height: 32px;
+   padding-bottom: 60px;
+}
+
+#search {
+   width: 290px;
+   float: left;
+}
+
+#search-header {
+   margin-right: 25px;
+}
+
+#li {
+   padding: 20px;
+}
+
+h1 {
+   padding-left: 20px;
+}
+
+.uv-index {
+   margin-bottom: 25px;
+}
+
+#forecast {
+   display: inline-block;
+   height: 100px;
+}
+
+.card {
+   position: relative;
+   display: inline-block;
+}
+
+.cardbody {
+   border: none;
+   display: inline-block;
+   flex-direction: row;
+}
+
+.uv-low {
+   background-color: green;
+}
+
+.uv-mild {
+   background-color: yellow;
+}
+
+.uv-warning {
+   background-color: orange;
+}
+
+.uv-high {
+   background-color: red;
+}
+
+.uv-extreme {
+   background-color: rgb(60, 0, 139);
+}
