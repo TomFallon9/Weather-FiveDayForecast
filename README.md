@@ -16,6 +16,7 @@ URL of the GitHub repository: https://github.com/TomFallon9/Weather-FiveDayForec
 * [View](#view)
 * [Usage](#usage)
 * [Built With](#built-with)
+* [Screenshot](#screenshot)
 
 
 ## Description
@@ -47,3 +48,6 @@ In this application, the user can find the date and the following weather inform
 * [jQuery](https://jquery.com/) - JavaScript library that simplifies HTML client-side scripting. Used in this application to access APIs and dynamically create and update HTML elements.
 * [OpenWeatherMap API](https://openweathermap.org/api) - API that provides weather data. Used to display almost all of the weather information in the application.
 * [Moment](https://momentjs.com/) - JavaScript library that helps with managing dates and time in the browser.
+
+## Screenshot
+![screenshot](Screenshot(22).png)
